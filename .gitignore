@@ -128,4 +128,4 @@ out/
 target/
 
 # Files
-contents/
+contents/*.mp4
